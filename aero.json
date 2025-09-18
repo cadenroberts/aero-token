@@ -4,7 +4,7 @@
   "description": "AERO is a community-driven token with fixed supply and sustainable tokenomics",
   "image": "https://raw.githubusercontent.com/cadenroberts/aero-token/main/aero.png",
   "extensions": {
-    "website": "https://aeroofficial.net"
+    "website": "https://aeroofficial.net",
     "twitter": "https://x.com/AeroCurrency",
     "telegram": "https://t.me/aerocurrency"
   }
