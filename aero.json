@@ -1,0 +1,9 @@
+{
+  "name": "AERO",
+  "symbol": "AERO",
+  "description": "AERO is a community-driven token with fixed supply and sustainable tokenomics (40% dev, 50% liquidity, 10% reserve).",
+  "image": "https://raw.githubusercontent.com/cadenroberts/aero-token/main/aero.png",
+  "extensions": {
+    "website": "https://aeroofficial.net"
+  }
+}
